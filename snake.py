@@ -12,9 +12,6 @@ RIGHT = 0
 # shapes = ["turtle", 'square', 'circle', 'arrow', 'triangle']
 
 
-dababy = turtle.addshape("dababy_6.gif")
-
-
 class Snake:
 
     def __init__(self):
